@@ -30,3 +30,4 @@ cypress/screenshots
 js/*.js
 
 results/
+mochawesome-report/
